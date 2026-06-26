@@ -1,4 +1,4 @@
-# Rahuman Sheriff — Rahuman Sheriff — Scientific Advisory & Consulting Website
+# Rahuman Sheriff — Scientific Advisory & Consulting Website
 
 A refined, less cluttered one-page GitHub Pages website.
 
