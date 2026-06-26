@@ -1,31 +1,18 @@
-# Rahuman Sheriff Consulting Website
+# Rahuman Sheriff — Scientific Advisory & Consulting Website
 
-A simple one-page GitHub Pages website.
+Premium one-page static website for GitHub Pages.
 
-## How to publish on GitHub Pages
+## Files
+- `index.html`
+- `style.css`
 
-1. Create a new GitHub repository named either:
-   - `rsmsheriff.github.io` for a main personal site, or
-   - any name, e.g. `consulting-page`, for a project site.
+## Update live GitHub Pages site
+1. Open your GitHub repository.
+2. Replace the existing `index.html` and `style.css` with these files.
+3. Commit changes.
+4. Wait 1–2 minutes for GitHub Pages to update.
 
-2. Upload `index.html` and `style.css` to the repository.
-
-3. In GitHub, go to:
-   Settings → Pages → Build and deployment.
-
-4. Under "Source", select:
-   Deploy from a branch.
-
-5. Select:
-   Branch: `main`
-   Folder: `/root`
-
-6. Save.
-
-Your page should be live within a few minutes.
-
-If using repository name `rsmsheriff.github.io`, the URL will be:
-https://rsmsheriff.github.io
-
-If using another repository name, the URL will be:
-https://rsmsheriff.github.io/repository-name/
+## Notes
+- Primary contact email in the page is `rsmsheriff@gmail.com`.
+- Edit `mailto:` links in `index.html` if you prefer another email.
+- The site is designed to be institution-neutral while still linking to public profiles for credibility.
